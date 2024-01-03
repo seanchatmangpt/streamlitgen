@@ -1,0 +1,1 @@
+"""streamlitgen test suite."""
